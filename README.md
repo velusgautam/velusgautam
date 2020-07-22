@@ -10,7 +10,7 @@ My areas of interest are:
 - 👯 I love open source collaboration on public repositories
 - 💬 I share my ideas through my blog [Hectane.com](http://hectane.com/)
 - ⚡ I learn from errors and keep doing experiements. 
-- 🔥 I am currently wobbling my head around Design Systems, Deno, WASM and Kubernetes
+- 🔥 I'm currently wobbling my head around Design Systems, Deno, WASM and Kubernetes
 
 
  [Twitter](https://twitter.com/velusgautam) | 
