@@ -9,7 +9,7 @@ My areas of interest are:
 - 💚 I love doing JavaScript infrastructure tooling, frameworks and libraries
 - 👯 I love open source collaboration on public repositories
 - 💬 I share my ideas through my blog [Hectane.com](http://hectane.com/)
-- ⚡ I learn from errors and keep doing experiements. 
+- ⚡ I learn from errors and keep doing experiments. 
 - 🔥 I'm currently wobbling my head around Design Systems, Deno, WASM and Kubernetes
 
 
