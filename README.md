@@ -18,5 +18,5 @@ My areas of interest are:
  [Website](https://velusgautam.com) | 
  [Resume](https://velusgautam.com/velusgautam.html) |
 
-[![Hits](https://hits.vercel.app/velusgautam/velusgautam.svg)](https://hits.vercel.app/)
+[![Views](https://views.hectane.com/velusgautam/velusgautam.svg)](https://views.hectane.com/)
 
