@@ -16,5 +16,7 @@ My areas of interest are:
  [Twitter](https://twitter.com/velusgautam) | 
  [LinkedIn](https://linkedin.com/in/velusgautam) | 
  [Website](https://velusgautam.com) | 
- [Resume](https://velusgautam.com/velusgautam.html)
- [https://hits.vercel.app/velusgautam-test.svg](https://hits.vercel.app/)
+ [Resume](https://velusgautam.com/velusgautam.html) |
+
+[![Hits](https://hits.vercel.app/velusgautam/velusgautam.svg)](https://hits.vercel.app/)
+
