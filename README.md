@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Velu and I'm a JavaScript and Web Engineer with 8 years of industry experience  🤹🏼‍
+My name is Velu and I'm a Web Engineer with 8 years of industry experience and I love JavaScript. 🤹🏼‍
 
 My areas of interest are:
 
