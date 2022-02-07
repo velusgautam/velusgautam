@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a Web Engineer with 8 years of industry experience and I love JavaScript. 🤹🏼‍
+Hi! I'm Velu. I'm a Web Engineer who loves JavaScript. 
 
 My areas of interest are:
 
+- 🤹🏼‍ I always have a side project on new things I learn, So if you have a new idea ping me.
 - 🔭 I’m currently work on libraries like React, Next.js, Sapper & Svelte
 - 🌱 I’m currently learning languages Go & Rust (for WASM)
 - 💚 I love doing JavaScript infrastructure tooling, frameworks and libraries
