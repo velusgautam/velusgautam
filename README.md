@@ -17,7 +17,7 @@ My areas of interest are:
  [Twitter](https://twitter.com/velusgautam) | 
  [LinkedIn](https://linkedin.com/in/velusgautam) | 
  [Website](https://velusgautam.com) | 
- [Resume](https://velusgautam.com/velusgautam.html) |
+ [Resume](https://velusgautam.com/velusgautam.html)
 
 [![Views](https://views.hectane.com/velusgautam/velusgautam.svg)](https://views.hectane.com/)
 
